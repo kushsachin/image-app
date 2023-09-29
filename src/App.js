@@ -21,7 +21,7 @@ function App() {
           Learn React
         </a>
       </header>
-      <img src={require("./Images/Bootstrap.png")} />
+      <img src={require("../public/Images/CSS.png")} alt="css"/>
     </div>
   );
 }
