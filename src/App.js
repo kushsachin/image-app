@@ -18,7 +18,7 @@ function App() {
           Learn React
         </a>
       </header>
-      <img src={require("./Images/CSS.png")} alt="css2222" />
+      <img src={require("./Images/CSS.png")} alt="css222" />
     </div>
   );
 }
